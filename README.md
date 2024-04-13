@@ -2,7 +2,7 @@
 
 # Welcome to FireLogin!
 
-An SPM package for seamlessly using Google's FireBase Authentication of Email and Phone number together.
+A Swift Package for seamlessly integrating Google's Firebase Authentication using Email/Password and Phone number verifcation together.
 * This is a ***Swift package*** which you can add to your existing or new project to get the benifits of ***Firebase Authentication***.
 * This package reduces your efforts to write logic for Integrating the Authentication.
 * Checkout the example project [here](https://github.com/kishorekankata/FireLogin-Example) to see how it is used.
