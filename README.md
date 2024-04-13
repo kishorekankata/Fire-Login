@@ -9,8 +9,11 @@ An SPM package for seamlessly using Google's FireBase Authentication of Email an
 ------
 ## Installation
 
-* Goto File menu -> Click Add Package Dependencies -> paste the url - **https://github.com/kishorekankata/Fire-Login.git**
-* Click on Add package.
+* Goto File menu -> Click Add Package Dependencies -> paste the below package url in the search bar
+  ` https://github.com/kishorekankata/Fire-Login.git `
+* Select 'Up to Next Major Version' click on **Add Package**
+* This will fetch FireLogin to your project along with all Firebase dependencies into your project.
+* Boom! you are done and ready to use authentication. Follow this Example Project to see how you can use this Package [Click](https://github.com/kishorekankata/FireLogin-Example)
 
 ------
 
